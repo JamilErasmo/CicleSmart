@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Scooter Eléctrico Plegable",
+    "category": "Eléctrico",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1796/0271/products/Phatty-G3-OG-Collections_940x@2x.png",
+    "oldPrice": "2500",
+    "price": "$1.00/min"
+  },
+  {
+    "id": 1,
+    "name": "Scooter Urbano",
+    "category": "Urbano",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-kRLE0IHM58c-eXcaviNpHQ0aZggVscTYrkJPTfvrYdoTmLphz8ihkiDr4WUbNgYBRSw&usqp=CAU",
+    "oldPrice": "3000",
+    "price": "$1.00/min"
+  },
+  {
+    "id": 2,
+    "name": "Scooter Deportivo",
+    "category": "Deportivo",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_757220-MBO46369525755_062021-O.webp",
+    "oldPrice": "2500",
+    "price": "$1.00/min"
+  },
+  {
+    "id": 3,
+    "name": "Scooter Todo Terreno",
+    "category": "Todo Terreno",
+    "imageUrl": "https://ec.e-scooter.co/i/ph/at/phat-scooters-hd/full/Black-HD_940x@2x-e1601721848185.webp",
+    "oldPrice": "2500",
+    "price": "$1.00/min"
+  },
+  {
+    "id": 4,
+    "name": "Scooter para Niños",
+    "category": "Niños",
+    "imageUrl": "https://promart.vteximg.com.br/arquivos/ids/4599809-1000-1000/image-031bd1b0d20e4e2b816240282d52bf82.jpg?v=637813552646570000",
+    "oldPrice": "2500",
+    "price": "$1.00/min"
+  },
+  {
+    "id": 5,
+    "name": "Scooter con Asiento",
+    "category": "Con Asiento",
+    "imageUrl": "https://livansud.vteximg.com.br/arquivos/ids/158133-1000-1000/scooter-electrico-evox-ordinary-cool-eckohogar.jpg?v=637439181209030000",
+    "oldPrice": "2500",
+    "price": "$1.00/min"
+  },
+  {
+    "id": 6,
+    "name": "Scooter de Lujo",
+    "category": "Lujo",
+    "imageUrl": "https://tiaecuador.vtexassets.com/arquivos/ids/205166-800-auto?v=638010174962970000&width=800&height=auto&aspect=true",
+    "oldPrice": "2500",
+    "price": "$1.00/min"
+  }
+]

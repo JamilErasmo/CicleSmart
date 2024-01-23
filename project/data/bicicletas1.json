@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "BMX",
+    "category": "VIP",
+    "imageUrl": "https://th.bing.com/th/id/R.0553a55c9c56451c30e9677cf02260ed?rik=H5D5s5f%2f5zZo5g&pid=ImgRaw&r=0",
+    "oldPrice": "3000",
+    "price": "$1.00/min",
+    "battery": "100%"
+  },
+  {
+    "id": 1,
+    "name": "BMX1",
+    "category": "VIP",
+    "imageUrl": "https://th.bing.com/th/id/R.cac43635f364835b3a5faf4fede66991?rik=5NzfHqN4tKvfOA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-d9SFHlHFS1U%2fT032g_ZRRbI%2fAAAAAAAAAAw%2fidC99eFm7ro%2fs1600%2f2012-salvador-street-complete-bike-chrome-red-iso.jpg&ehk=tagzg0dgtIddMO1PhSaaetNLjQUp%2fwgPivE165wIguk%3d&risl=&pid=ImgRaw&r=0",
+    "oldPrice": "2500",
+    "price": "$1.00/min",
+    "battery": "100%"
+  },
+  {
+    "id": 2,
+    "name": "BMX2",
+    "category": "Medium",
+    "imageUrl": "https://th.bing.com/th/id/R.0553a55c9c56451c30e9677cf02260ed?rik=H5D5s5f%2f5zZo5g&pid=ImgRaw&r=0",
+    "oldPrice": "2000",
+    "price": "$0.75/min",
+    "battery": "100%"
+  },
+  {
+    "id": 3,
+    "name": "BMX3",
+    "category": "Low",
+    "imageUrl": "https://http2.mlstatic.com/bicicleta-mongoose-bmx-D_NQ_NP_242511-MLM20562038377_012016-F.jpg",
+    "oldPrice": "1500",
+    "price": "$0.50/min",
+    "battery": "100%"
+  },
+  {
+    "id": 4,
+    "name": "BMX4",
+    "category": "VIP",
+    "imageUrl": "https://th.bing.com/th/id/R.cac43635f364835b3a5faf4fede66991?rik=5NzfHqN4tKvfOA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-d9SFHlHFS1U%2fT032g_ZRRbI%2fAAAAAAAAAAw%2fidC99eFm7ro%2fs1600%2f2012-salvador-street-complete-bike-chrome-red-iso.jpg&ehk=tagzg0dgtIddMO1PhSaaetNLjQUp%2fwgPivE165wIguk%3d&risl=&pid=ImgRaw&r=0",
+    "oldPrice": "2500",
+    "price": "$1.00/min",
+    "battery": "100%"
+  },
+  {
+    "id": 5,
+    "name": "BMX5",
+    "category": "Medium",
+    "imageUrl": "https://http2.mlstatic.com/bicicleta-mongoose-bmx-D_NQ_NP_242511-MLM20562038377_012016-F.jpg",
+    "oldPrice": "2000",
+    "price": "$0.75/min",
+    "battery": "100%"
+  }
+]

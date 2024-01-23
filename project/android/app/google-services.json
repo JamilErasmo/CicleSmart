@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758764754429",
+    "project_id": "ciclesmart-6362e",
+    "storage_bucket": "ciclesmart-6362e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758764754429:android:997e598e39fd75208d7594",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmC5Ze_r-rIvCMclPI3QDfUgubuuQBq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
